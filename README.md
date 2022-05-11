@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Martha
 - 👀 I’m interested in Machine Learning, Deep Learning, and Wireless Communications
-- 🌱 I’m currently learning Javascript for game dev
 - 📫 How to reach me: mcash8@lsu.edu, linkedin.com/in/marthaecash
 
 <!---
