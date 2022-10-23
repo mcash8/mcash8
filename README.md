@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Martha
 - 👀 I’m interested in Machine Learning, Deep Learning, and Wireless Communications
-- 📫 How to reach me: mcash8@lsu.edu, linkedin.com/in/marthaecash
+- 📫 How to reach me: mcash@wpi.edu, linkedin.com/in/marthaecash
 
 <!---
 mcash8/mcash8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
